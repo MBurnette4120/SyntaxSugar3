@@ -28,6 +28,9 @@ namespace SyntaxSugar3
             var response = (age >= 21) ? $"{age} is old enough to drink." : $"{age} is not old enough to drink.";
 
             Console.WriteLine(response);
+
+            //just for comments
+
         }
     }
 }
